@@ -565,8 +565,7 @@ MONGO_URI=mongodb+srv:
 JWT_SECRET=generate_a_very_long_random_string_here
 NODE_ENV=production
 ```
-
-### Build for Production
+ Build for Production
 
 ```bash
 npm run build
