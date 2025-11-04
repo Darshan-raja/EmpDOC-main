@@ -561,7 +561,7 @@ All errors return appropriate HTTP status codes:
 ### Environment Variables for Production
 
 ```properties
-MONGO_URI=mongodb+srv://user:pass@cluster.mongodb.net/empdoc
+MONGO_URI=mongodb+srv:
 JWT_SECRET=generate_a_very_long_random_string_here
 NODE_ENV=production
 ```
